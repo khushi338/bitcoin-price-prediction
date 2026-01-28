@@ -1,0 +1,8 @@
+# Ignore large datasets
+data/bitcoin.csv
+data/bitcoin_with_predictions.csv
+
+# Virtual env & cache
+.venv/
+__pycache__/
+*.pyc
